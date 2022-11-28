@@ -4,7 +4,7 @@
 
 <div id="badges">
   <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" align="right" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" align="left" alt="LinkedIn Badge"/>
   </a>
   
   <a href="#">
