@@ -25,7 +25,7 @@
 
 ---
 
-### <div align="center">I'm David, Data Scientist, Back-End Developer, Open Source Enthusiast, and Life Long Learner. 👨‍💻 🚀</div>  
+### <div align="center">I'm a Back-End Developer, Open Source Enthusiast, and Life Long Learner. 👨‍💻 🚀</div>  
 
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
