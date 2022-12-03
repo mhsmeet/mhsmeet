@@ -1,14 +1,14 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="85"/>
+  <img src="https://user-images.githubusercontent.com/60159274/190869473-ca20562b-f547-453d-930f-ff214b15828a.gif" align="center" style="width: 100%" />
 </div>
 
-<div id="badges">
+<div align="center">
   <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" align="left" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
   <a href="#">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" align="right" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   
    <a href="your-youtube-URL">
@@ -17,7 +17,7 @@
   
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=mhsmeet&style=flat-square&color=blue" alt="Never gonna give you up"/>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=mhsmeet&style=flat-square&color=blue" alt="Never gonna give you up"/></div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -25,7 +25,7 @@
 
 ---
 
-### 👨‍💻: About Me :  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+### <div align="center">I'm David, Data Scientist, Back-End Developer, Open Source Enthusiast, and Life Long Learner. 👨‍💻 🚀</div>  
 
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
